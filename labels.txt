@@ -1,0 +1,16 @@
+0 A
+1 B
+2 C
+3 D
+4 E
+5 F
+6 G
+7 GoodLuck
+8 H
+9 Hello
+10 I
+11 K
+12 L 
+13 No
+14 Thank you
+15 V
